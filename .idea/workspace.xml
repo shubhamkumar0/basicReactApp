@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc80782a-43d5-459e-bc1b-6f8bd14ee161" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc80782a-43d5-459e-bc1b-6f8bd14ee161" name="Default Changelist" comment="" />
+      <created>1588776793529</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588776793529</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="228" y="23" key="SettingsEditor" timestamp="1588819254081">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="228" y="23" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1588819254081" />
+    <state x="119" y="161" width="1200" height="540" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588847831338">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="119" y="161" width="1200" height="540" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.813@0.23.1440.813" timestamp="1588847831338" />
+    <state x="113" y="23" key="new project wizard" timestamp="1588819264977">
+      <screen x="0" y="23" width="1440" height="813" />
+    </state>
+    <state x="113" y="23" key="new project wizard/0.23.1440.813@0.23.1440.813" timestamp="1588819264977" />
+  </component>
+</project>
