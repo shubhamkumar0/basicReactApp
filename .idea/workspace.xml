@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cc80782a-43d5-459e-bc1b-6f8bd14ee161" name="Default Changelist" comment="" />
+    <list default="true" id="cc80782a-43d5-459e-bc1b-6f8bd14ee161" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/app/bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/app/bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/Box.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/Box.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/box.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/box.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,12 +21,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bb5Lh4gzBqEQbA6Ld9hffc8ZCR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -60,10 +73,11 @@
       <screen x="0" y="23" width="1440" height="813" />
     </state>
     <state x="228" y="23" key="SettingsEditor/0.23.1440.813@0.23.1440.813" timestamp="1588819254081" />
-    <state x="119" y="161" width="1200" height="540" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588847831338">
-      <screen x="0" y="23" width="1440" height="813" />
+    <state x="119" y="161" width="1200" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1588889715976">
+      <screen x="0" y="23" width="1440" height="814" />
     </state>
     <state x="119" y="161" width="1200" height="540" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.813@0.23.1440.813" timestamp="1588847831338" />
+    <state x="119" y="161" width="1200" height="541" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.814@0.23.1440.814" timestamp="1588889715976" />
     <state x="113" y="23" key="new project wizard" timestamp="1588819264977">
       <screen x="0" y="23" width="1440" height="813" />
     </state>
