@@ -3,26 +3,10 @@ import {render} from "react-dom";
 import ReactDOM from "react-dom";
 import Draggable from 'react-draggable';
 import './Box.css'
+import {WrapperDraggable} from "./WrapperDraggable.js";
 
 var prevProps=null;
 var refs=[];
-
-
-const WrapperDraggable = React.forwardRef((props,ref)=>(
-    <Draggable
-        handle="h3"
-        defaultPosition={{x:props.width,y:props.height-175}}
-        onStart={(e,ui)=>e.stopPropagation()}
-        bounds="parent"
-    >
-            <div className={"box "+props.count.toString()}
-                style={{width: props.width, height: props.height, zIndex: props.zIdx}}
-                id={"portal"+(props.count-1).toString()}>
-                <h3>Title {props.count}</h3>
-                <p className={"outer"} ref={ref} style={{height:props.height+53}}></p>
-            </div>
-    </Draggable>
-));
 
 export class Box extends React.Component{
 
@@ -36,9 +20,11 @@ export class Box extends React.Component{
     }
 
     addElement=(count,zIdx) => {
-            var newDom = <WrapperDraggable count={count} zIdx={zIdx} width={count*175} height={count*175} ref={this.myRef}/>
+            var newDom = <WrapperDraggable count={count} zIdx={zIdx} width={count*175} height={count*175} innerRef={this.myRef}/>
             refs[this.state.count-1]=this.myRef.current;
-            this.setState({boxes:[newDom].concat(this.state.boxes)})
+            this.setState({
+                boxes:[newDom].concat(this.state.boxes)
+            })
     }
 
     IncreaseCountOnButtonClick=()=>{
