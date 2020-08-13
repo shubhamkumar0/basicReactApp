@@ -4,10 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npm run build",
+    "start": "npm install && npm run build",
     "build": "webpack -d && cp src/index.html dist/index.html && webpack-dev-server --content-base src/ --inline --hot",
-    "build:prod": "webpack -p && cp src/index.html dist/index.html",
-    "heroku-postbuild": "npm install && npm run build"
+    "build:prod": "webpack -p && cp src/index.html dist/index.html"
   },
   "author": "shubham",
   "license": "MIT",
